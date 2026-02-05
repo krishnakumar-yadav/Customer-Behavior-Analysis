@@ -4,7 +4,6 @@
 This project focuses on analyzing **customer shopping behavior** using transactional data from **3,900 purchases** across multiple product categories.  
 The goal is to identify **spending patterns, customer segments, product preferences, and subscription behavior** to support data-driven business decisions.
 
----
 <p align="center">
   <img src="image.png" width="800">
   
@@ -25,7 +24,6 @@ The goal is to identify **spending patterns, customer segments, product preferen
 ⚠️ **Missing Data:**  
 - 37 missing values in the `Review Rating` column
 
----
 
 ## 🧹 Data Cleaning & Preparation (Python)
 Data preprocessing was done using **Python (Pandas & NumPy)**.
@@ -40,8 +38,6 @@ Data preprocessing was done using **Python (Pandas & NumPy)**.
   - Created `purchase_frequency_days`
 - Removed redundant column (`promo_code_used`)
 - Loaded cleaned data into **PostgreSQL** for SQL analysis
-
----
 
 ## 🗄️ SQL Analysis (PostgreSQL)
 Business-focused SQL queries were written to answer key questions:
@@ -60,7 +56,6 @@ Business-focused SQL queries were written to answer key questions:
 9. Subscription likelihood of repeat buyers (>5 purchases)
 10. Revenue contribution by **Age Group**
 
----
 
 ## 📊 Power BI Dashboard
 An interactive **Power BI dashboard** was created to visualize:
@@ -72,7 +67,6 @@ An interactive **Power BI dashboard** was created to visualize:
 
 This helps stakeholders quickly understand insights and take action.
 
----
 
 ## 💡 Business Recommendations
 - 📈 Promote **subscription plans** with exclusive benefits
@@ -81,7 +75,6 @@ This helps stakeholders quickly understand insights and take action.
 - ⭐ Highlight **top-rated & best-selling products**
 - 👥 Focus marketing on **high-revenue age groups** and **express shipping users**
 
----
 
 ## 🛠️ Tools & Technologies
 - **Python** (Pandas, NumPy)
@@ -89,4 +82,3 @@ This helps stakeholders quickly understand insights and take action.
 - **Power BI**
 - **Git & GitHub**
 
----
