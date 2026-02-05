@@ -6,7 +6,7 @@ The goal is to identify **spending patterns, customer segments, product preferen
 
 ---
 <p align="center">
-  <img src="images.png" width="800">
+  <img src="image.png" width="800">
   
 ## 📂 Dataset Summary
 - **Total Rows:** 3,900  
